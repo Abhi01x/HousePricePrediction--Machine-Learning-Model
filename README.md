@@ -46,7 +46,7 @@ python train_model.py
  
 This will:
 
-Load the dataset
+Load the dataset 
 
 Preprocess data (handle missing values)
 
