@@ -5,7 +5,7 @@ This project predicts house prices using a **Random Forest Regressor** model tra
 - **Data Preprocessing & Training:** Prepares the dataset, trains a model, and saves it.
 - **Web Application:** A **Flask-based web app** to predict house prices based on user inputs.
 
-## Installation & Setup
+## Installation & Setup 
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/Abhi01x/HousePricePrediction--Machine-Learning-Model.git
