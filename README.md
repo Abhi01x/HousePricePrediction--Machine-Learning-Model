@@ -33,7 +33,7 @@ OverallQual - Overall material and finish quality
 
 GrLivArea - Above-ground living area
 
-GarageCars - Number of garages
+GarageCars - Number of garages 
 
 TotalBsmtSF - Total basement square footage
 
