@@ -1,4 +1,4 @@
-# House Price Prediction using Machine Learning
+# House Price Prediction using Machine Learning Model
 
 ## Overview
 This project predicts house prices using a **Random Forest Regressor** model trained on key features. It includes:
