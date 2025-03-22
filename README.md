@@ -48,7 +48,7 @@ This will:
 
 Load the dataset 
 
-Preprocess data (handle missing values)
+Preprocess data (handle missing values) 
 
 Train a Random Forest Regressor
 
