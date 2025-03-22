@@ -43,7 +43,7 @@ Training the Model
 Run the following command to train and save the model:
 
 python train_model.py
-
+ 
 This will:
 
 Load the dataset
