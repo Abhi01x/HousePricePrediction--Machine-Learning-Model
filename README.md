@@ -43,7 +43,7 @@ Preprocess data (handle missing values)
 
 Train a Random Forest Regressor
 
-Save the model as house_price_model.pkl or you can use index.html
+Save the model as house_price_model.pkl or you can use index.html 
 
 Running the Web App
 Start the Flask web application:
