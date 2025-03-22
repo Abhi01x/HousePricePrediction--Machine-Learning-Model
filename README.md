@@ -7,7 +7,7 @@ This project predicts house prices using a **Random Forest Regressor** model tra
 
 ## Installation & Setup 
 ### 1. Clone the Repository
-```sh
+```sh 
 git clone https://github.com/Abhi01x/HousePricePrediction--Machine-Learning-Model.git
 cd HousePricePrediction--Machine-Learning-Model
 
