@@ -20,7 +20,7 @@ This project predicts house prices using a **Random Forest Regressor** model tra
 git clone https://github.com/Abhi01x/HousePricePrediction--Machine-Learning-Model.git
 cd HousePricePrediction--Machine-Learning-Model
 
-2. Install Dependencies
+2. Install Dependencies 
 Make sure you have Python installed, then install the required libraries:
 
 pip install pandas numpy scikit-learn joblib flask
