@@ -36,7 +36,7 @@ GrLivArea - Above-ground living area
 GarageCars - Number of garages 
 
 TotalBsmtSF - Total basement square footage
-
+ 
 SalePrice - Target variable (house price)
 
 Training the Model 
