@@ -4,6 +4,15 @@
 This project predicts house prices using a **Random Forest Regressor** model trained on key features. It includes: 
 - **Data Preprocessing & Training:** Prepares the dataset, trains a model, and saves it.
 - **Web Application:** A **Flask-based web app** to predict house prices based on user inputs
+  
+## 🚀 Future Updates  
+- **Model Improvement:** Tune hyperparameters, try XGBoost/LightGBM.  
+- **Deployment:** Host on Render, Heroku, or AWS with Docker support.  
+- **Better UI:** Use Streamlit for an interactive interface.  
+- **Data Visualization:** Add charts for feature analysis.  
+- **Database Integration:** Store predictions in SQLite/Firebase.  
+- **Mobile App:** Convert to a Flutter or React Native app.  
+
 
 ## Installation & Setup 
 ### 1. Clone the Repository
@@ -49,3 +58,5 @@ Running the Web App
 Start the Flask web application:
 python app.py
 Then, open http://127.0.0.1:5000/ in your browser to input house features and predict prices.
+
+
