@@ -31,7 +31,7 @@ The dataset (train.csv) contains housing features. Key features used:
 
 OverallQual - Overall material and finish quality
 
-GrLivArea - Above-ground living area
+GrLivArea - Above-ground living area 
 
 GarageCars - Number of garages 
 
