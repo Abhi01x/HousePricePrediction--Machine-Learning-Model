@@ -12,7 +12,7 @@ This project predicts house prices using a **Random Forest Regressor** model tra
 - **Data Visualization:** Add charts for feature analysis.  
 - **Database Integration:** Store predictions in SQLite/Firebase.  
 - **Mobile App:** Convert to a Flutter or React Native app. 
-
+ 
 
 ## Installation & Setup 
 ### 1. Clone the Repository
