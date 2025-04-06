@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+ from flask import Flask, render_template, request
 import joblib 
 import numpy as np   
 
@@ -11,7 +11,7 @@ model = joblib.load('house_price_model.pkl')
 
    
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST']) 
 def predict():
     prediction = None
     if request.method == 'POST':
