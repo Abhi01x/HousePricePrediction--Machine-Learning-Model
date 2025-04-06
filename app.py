@@ -9,7 +9,7 @@ app = Flask(__name__)
 #load the trained machine learning model
 model = joblib.load('house_price_model.pkl')
 
-  
+   
 
 @app.route('/', methods=['GET', 'POST'])
 def predict():
