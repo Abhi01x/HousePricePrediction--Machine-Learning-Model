@@ -4,14 +4,14 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_squared_error 
 import joblib 
  
 
 # step 2: load dataset
 df = pd.read_csv('train.csv')
 
-# step 3: handle missing data
+# step 3: handle missing data 
 features = ['OverallQual', 'GrLivArea', 'GarageCars',  'TotalBsmtSF', 'SalePrice']
 df = df[features]
 df = df.dropna()
